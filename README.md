@@ -8,13 +8,13 @@ You are welcome to write a proposal with up to 5 other students, if desired. If 
 
 beautiful noise
 
-### What and why?
+## What and why?
 
 What software system would you like to build this semester, and why? Include a description of what problem the system would solve and why this is important.
 
 New music discovery is a souless, intensive experience. If you want to find new artists, you'll have to sift through playlist on top of playlist for hours. Musaik will connect users through streaming parties and auto-match chats. Users will discover new music easily and enjoyably.
 
-### For whom?
+## For whom?
 
 Who will this software be for? These people are your end-users or customers.
 
@@ -24,7 +24,7 @@ Understanding who your end-users are, and ideally speaking with some along the w
 
 Musaik is for individuals with a streaming account--Spotify, Apple Music. Users will be a mix of music nerds and casual listeners
 
-### How?
+## How?
 
 Users can discover stations
 ⁃ Auto visual/video
@@ -40,6 +40,6 @@ Users can make friends and chat
 ⁃ Match by preference
 ⁃ Chat with friend/friend
 
-### Scope
+## Scope
 
 It's not a rocketship, but there's a lot of meat to handle. It requires implementing chat functions, authentication with external APIs, UI/UX design, matching and recommendations, data storage.
