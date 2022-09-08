@@ -28,23 +28,37 @@ Musaik is for individuals with a streaming account--Spotify, Apple Music. Users 
 
 Users can discover stations
 
+
 ⁃ Auto visual/video
+
 ⁃ Anyone can start a temporary station
+
 ⁃ analyze users’ preferences
+
 ⁃ Present current stations by popularity and taste (a "feed" but more engaging)
+
 ⁃ Current song is played for all users on station
+
 ⁃ Songs distributed to users live through their streaming account
+
 ⁃ NO LIVE CHAT AND NO VOICEOVER
+
 ⁃ Station host can preload or live video feed
+
 
 Users can view and share their listening stats 
 
+
 - top artists, songs, albums, etc.
+
 
 Users can make friends and chat
 
+
 ⁃ Match by preference
+
 ⁃ Chat with friend/friend
+
 
 ## Scope
 
